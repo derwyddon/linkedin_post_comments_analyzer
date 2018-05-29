@@ -1,0 +1,7 @@
+beautifulsoup4==4.6.0
+click==6.7
+pandas==0.23.0
+progressbar2==3.37.1
+requests==2.18.4
+pathlib==1.0
+openpyxl==2.5.3

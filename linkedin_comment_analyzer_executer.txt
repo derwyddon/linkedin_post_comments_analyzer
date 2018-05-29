@@ -1,0 +1,5 @@
+python linkedin_comment_analyzer.py analyze infile imageoutdir timepath --debug='no'
+
+"G:\Users\roberto\venv\51-linkedin-comments-analyzer\Scripts\python.exe"
+
+python linkedin_comment_analyzer.py analyze 'G:\Users\roberto\PycharmProjects\51-linkedin-comments-analyzer\output\comments\20180525-135746-comments.html' 'G:\Users\roberto\PycharmProjects\51-linkedin-comments-analyzer\output\images\20180525-135746' '20180525-135746' --debug=yes
